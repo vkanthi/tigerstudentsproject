@@ -5,7 +5,14 @@ def display_board(board):
     """ """
     pass
 
+
+def place_player_symbol(board, position, player_symbol):
+	"""This function place the player symbol on the desired position"""
+	board[position] = symbol
+
+
 # This is Vivek's Code
+# This is Vivek's Code edited on 24/01/2021
 
 
 def check_winning(board, player_symbol):

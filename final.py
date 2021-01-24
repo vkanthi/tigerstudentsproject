@@ -2,7 +2,7 @@
 
 
 def display_board(board):
-    """ """
+    """This function is to display the tic tac toe board """
     pass
 
 

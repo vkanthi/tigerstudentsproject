@@ -7,16 +7,24 @@ def user_name():
     return your_name
 
 
+user_name()
+
+
 def user_input():
     """This function is to collect the user input to play the palindrome """
     your_input = input("Enter your input as a palindrome word or number")
     return your_input
 
 
+user_input()
+
+
 def outcome():
     """ """
     pass
 
+
+outcome()
 
 
 

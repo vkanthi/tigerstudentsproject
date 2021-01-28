@@ -8,7 +8,7 @@ def output():
     result = outcome()
     
     
-    if result = True:
+    if result == True:
         print(f"Dear {name}, the word {word} that you've entered is a palindrome")
 
     else
